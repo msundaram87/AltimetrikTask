@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `node version 16.20.0`.
+### `node version 16.20.0`
 
 ### `npm start`
 
