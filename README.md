@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `node version 16.20.0`
 
+### `go to backend folder and run npm install to install dependencies and npm run dev to run the backend server`
+
 ### `npm start`
 
 Runs the app in the development mode.\
