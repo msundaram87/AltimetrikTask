@@ -1,0 +1,22 @@
+.home {
+  margin-top: 2em;
+  .home__cars {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    // max-width: 1200px;
+    margin: 0 auto;
+
+    .car__box {
+      width: 250px;
+      height: 250px;
+      border: 2px solid #181818;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+  }
+}

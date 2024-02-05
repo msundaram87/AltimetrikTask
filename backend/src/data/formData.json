@@ -1,0 +1,67 @@
+[
+  {
+    "brand": "Honda",
+    "model": "Amaze",
+    "location": "Banglore",
+    "color": "Silver",
+    "owners": "1",
+    "year": "2019",
+    "transmission": "Manual",
+    "insurance": "2025",
+    "fitments": "No",
+    "kms": "7000",
+    "photo": null
+  },
+  {
+    "brand": "Honda",
+    "model": "City",
+    "location": "Mumbai",
+    "color": "Red",
+    "owners": "2",
+    "year": "2018",
+    "transmission": "Manual",
+    "insurance": "2025",
+    "fitments": "No",
+    "kms": "33000",
+    "photo": null
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Verna",
+    "location": "Chennai",
+    "color": "Black",
+    "owners": "2",
+    "year": "2015",
+    "transmission": "Manual",
+    "insurance": "2025",
+    "fitments": "no",
+    "kms": "33043",
+    "photo": null
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "location": "Banglore",
+    "color": "White",
+    "owners": "3",
+    "year": "2020",
+    "transmission": "Automatic",
+    "insurance": "2024",
+    "fitments": "no",
+    "kms": "18043",
+    "photo": null
+  },
+  {
+    "brand": "Volswogan",
+    "model": "test",
+    "location": "Mumbai",
+    "color": "yellow",
+    "owners": "2",
+    "year": "2023",
+    "transmission": "Automatic",
+    "insurance": "2025",
+    "fitments": "No",
+    "kms": "12000",
+    "photo": null
+  }
+]
